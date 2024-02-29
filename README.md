@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 👨‍💻 All of my projects are available at [https://github.com/viladit](https://github.com/viladit)
+- 👨‍💻 All of my projects are available at [https://github.com/viladit/MyProjects](https://github.com/viladit/MyProjects)
 
 - 💬 Ask me about **Java, Cooking, Series**
 
