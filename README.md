@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viladit&label=Profile%20views&color=0e75b6&style=flat" alt="viladit" /> </p>
 
-- 🌱 I’m currently learning **Java, Kotlin, Testing**
+- 🌱 I’m currently learning **Java, Spring, SQL**
 
 - 👯 I’m looking to collaborate on **anything**
 
